@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "title": "Digi",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/12/05/16702606285857.jpg",
+      "date": "2023-12-08",
+      "description": "fggfdgdfgdf",
+      "id": "d15d0de3-69e6-4a59-bcfd-b5ef7a7cde26"
+    },
+    {
+      "title": "A new event",
+      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
+      "date": "2022-10-01",
+      "description": "Some awesome event!",
+      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
+    }
+  ],
+  "users": [
+    {
+      "email": "hola@hola.com",
+      "password": "$2a$12$8tHhcWjAwDL9WudtqMO3YeayF1co1k02Kjmd.iPrO/VdP6amFiOXi",
+      "id": "d6bea060-07cf-4e63-a6f8-8bd67ce1faf1"
+    }
+  ]
+}
